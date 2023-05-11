@@ -1,2 +1,2 @@
 # thymeleaf_employee
-Task: Thymeleaf Based Employee System with CRUD Operations
+Task: Thymeleaf Based Employee System with CRUD Operations using Postgresql
