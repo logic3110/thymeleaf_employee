@@ -3,13 +3,21 @@ Task: Thymeleaf Based Employee System with CRUD Operations using Java, Springboo
 
 # Tools and technologies
 IDE - IntelliJ IDEA
+
 Spring Boot 3+
+
 Spring Framework 6+
+
 Thymeleaf
+
 Maven
+
 Java 17
+
 Postresql
+
 Spring Data JPA 
+
 Hibernate
 
 # Project Structure Flow
