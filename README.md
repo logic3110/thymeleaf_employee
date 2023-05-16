@@ -17,11 +17,17 @@ Hibernate
 
 # Setup
 Clone the repo and download all maven dependencies as highlighted in the 'pom.xml'.
+
 Create a database with the name "employees" in the PostgreSQL database server.
+
 We’ll configure PostgreSQL database URL, username, and password so that Spring can establish a connection with the database on startup. 
+
 Check application.properties for the configurations and adjust username and password as per your system.
+
 PostgreSQL port: postgresql://localhost:5432/employees
+
 Build and Run SpringbootApplication
+
 After setting up the project run on Port: localhost:8080
 
 # Employee List
